@@ -25,7 +25,6 @@ I love creating scalable software and delving into the intricacies of cloud arch
   - **Rust Programming Language**
   - **System Design (Byte by Byte)**
 
-### Skills
 - **Languages**: C++, Python, Rust, Verilog
 - **Technologies**: Linux, Git, Docker, Jenkins, AWS, Grafana, Kibana, PostgreSQL
 - **Libraries and Tools**: PyTorch, Scikit-Learn, Pandas, NumPy, CMake, OpenCV, NLTK, Apache Spark, YAML, NGINX
