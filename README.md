@@ -1,16 +1,30 @@
-### Hi there 👋
+<p align="center">
+  <h3 align="center">Hey, I'm Taj</h3>
+</p>
+<p align="center">
+    <a href="https://tajuar2001.github.io">About Me</a>
+    ·
+    <a href="mailto:tajuarb@umich.edu">Email</a>
+    ·
+    <a href="https://linkedin.com/in/tajuarb">LinkedIn</a>
+</p>
+<p align="center">
+  <h4 align="center">Computer Engineer from Ann Arbor, MI</h4>
+</p>
 
-<!--
-**tajuar2001/tajuar2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **[QuranTalk App](https://www.qurantalk.app/)**.
+- 🌱 I’m currently learning **Software Design Patterns**.
+<!-- - 🌱 I’m currently reading book **BUILDING MOBILE APPS AT SCALE** by Gergely Orosz. -->
+<!-- - 🤔 I’m looking for help with **UI/UX of [StarBook App](https://github.com/hashirshoaeb/star_book)**. -->
+
+### Projects
+[**LazyTune**](https:/github.com/tajuar2001/Lazy-Tune)) <br />A real time autotune and vocoder.
+<br />
+
+
+<hr/>
+
