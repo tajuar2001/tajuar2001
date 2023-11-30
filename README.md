@@ -14,17 +14,3 @@
 <hr/>
 
 I love creating scalable software and delving into the intricacies of cloud architecture.
-
-### What I'm Up To
-
-- 🚀 **Currently Working On:**
-  - **LazyTune**: A real-time autotune and vocoder project.
-
-- 💡 **Currently Learning:**
-  - **Software Design Patterns**
-  - **Rust Programming Language**
-  - **System Design (Byte by Byte)**
-
-- **Languages**: C++, Python, Rust, Verilog
-- **Technologies**: Linux, Git, Docker, Jenkins, AWS, Grafana, Kibana, PostgreSQL
-- **Libraries and Tools**: PyTorch, Scikit-Learn, Pandas, NumPy, CMake, OpenCV, NLTK, Apache Spark, YAML, NGINX
