@@ -9,14 +9,14 @@
     <a href="https://linkedin.com/in/tajuarb">LinkedIn</a>
 </p>
 <p align="center">
-  <h4 align="center">Computer Engineer from Ann Arbor, MI</h4>
+  <h4 align="center"> Computer Engineer from UMICH </h4>
 </p>
 
 <hr/>
 
 I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
 
-- 🔭 I’m currently working on **[QuranTalk App](https://www.qurantalk.app/)**.
+- 🔭 I’m currently working on **LazyTune**.
 - 🌱 I’m currently learning **Software Design Patterns**.
 <!-- - 🌱 I’m currently reading book **BUILDING MOBILE APPS AT SCALE** by Gergely Orosz. -->
 <!-- - 🤔 I’m looking for help with **UI/UX of [StarBook App](https://github.com/hashirshoaeb/star_book)**. -->
