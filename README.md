@@ -12,7 +12,6 @@
   <h4 align="center">CSE @UMICH</h4>
 </p>
 
-<hr/>
 
 I love creating scalable software and delving into the intricacies of cloud architecture.
 
