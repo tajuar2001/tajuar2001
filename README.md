@@ -9,26 +9,28 @@
     <a href="https://linkedin.com/in/tajuarb">LinkedIn</a>
 </p>
 <p align="center">
-  <h4 align="center"> Computer Engineer from UMICH </h4>
+  <h4 align="center">CSE @UMICH</h4>
 </p>
 
 <hr/>
 
-I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖. With a journey that began in a small village in Bangladesh, my passion for tech has brought me to UMICH and beyond.
+I love creating scalable software and delving into the intricacies of cloud architecture.
 
-- 🔭 I’m currently working on **LazyTune**.
-- 🌱 I’m currently learning **Software Design Patterns**.
-- 💼 Open to work in **Software Engineer roles**.
+### What I'm Up To
 
-### Projects
-[**LazyTune**](https:/github.com/tajuar2001/Lazy-Tune)) <br />A real time autotune and vocoder.
-<br />
+- 🚀 **Currently Working On:**
+  - **LazyTune**: A real-time autotune and vocoder project.
+
+- 💡 **Currently Learning:**
+  - **Software Design Patterns**
+  - **Rust Programming Language**
+  - **System Design (Byte by Byte)**
 
 ### Skills
-- **Languages & Technologies**: C++, Core ML, Python, Amazon Web Services (AWS)
-- **Interests**: Exploring algorithms, mathematical tools in computer engineering, cooking, gardening, Raspberry Pi's, Arduino, badminton, photography, and attending concerts.
+
+- **Languages**: C++, Python, Rust, Verilog
+- **Technologies**: Linux, Git, Docker, Jenkins, AWS, Grafana, Kibana, PostgreSQL
+- **Libraries and Tools**: PyTorch, Scikit-Learn, Pandas, NumPy, CMake, OpenCV, NLTK, Apache Spark, YAML, NGINX
 
 ### Contact
-Feel free to reach out to me at [tajuarb@umich.edu](mailto:tajuarb@umich.edu) or connect with me on [LinkedIn](https://linkedin.com/in/tajuarb).
-
-<hr/>
+Feel free to reach out to me.
