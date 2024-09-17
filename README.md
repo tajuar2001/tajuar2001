@@ -13,6 +13,6 @@
 </p>
 <hr/>
 
-i love creating scalable software and delving into the intricacies of cloud architecture.
+i love creating scalable distributed systems and cloud pipelines.
 
-i'm currently working on a project on pi 5(bare metal c/cuda for llms)!! & working on a web application called "New Leaf", designed to support and guide new parents. i'm also reading cool stuff about deep learning (graph machine learning) & designing data-Intensive app.
+i'm currently working on a high frequency trading system!
