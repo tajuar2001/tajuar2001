@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Hi there, I'm Taj</h3>
+  <h3 align="center">hi</h3>
 </p>
 <p align="center">
     <a href="https://tajuar2001.github.io">About Me</a>
